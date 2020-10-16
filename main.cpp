@@ -13,6 +13,14 @@ using namespace std;
 int main() {
 
 
+
+
+
+
+
+
+
+
     Size boardSize=Size(6,9);
     Size imageSize;
     int count=0;
